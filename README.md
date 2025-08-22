@@ -6,7 +6,7 @@
 ![Screenshot](Assets/screenshot.jpg)
 
 ## Overview
-Replaces the **Custom Stylesheet** textarea on **Settings → Application** with an ACE-powered CSS editor ( https://ace.c9.io/ ). CSP-safe: ACE scripts are served locally from the plugin.
+Replaces the **Custom Stylesheet** textarea on **Settings → Application** with an ACE (Ajax.org Cloud9 Editor) CSS editor ( https://ace.c9.io/ ). CSP-safe: ACE scripts are served locally from the plugin.
 
 ## Features
 - CSS syntax highlighting (ACE)
