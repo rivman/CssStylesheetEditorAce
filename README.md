@@ -1,7 +1,8 @@
 # CSS Stylesheet Editor – ACE (Kanboard plugin)
 
 **Version:** v1.0.0  
-**Author:** R.Valentin — RIVDESIGN.fr
+**Author:** R.Valentin — 
+https://RIVDESIGN.fr
 
 ![Screenshot](Assets/screenshot.jpg)
 
